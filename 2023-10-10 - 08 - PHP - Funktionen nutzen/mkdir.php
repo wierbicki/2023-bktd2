@@ -1,0 +1,5 @@
+<?php
+
+mkdir("Neuer Ordner");
+
+?>
